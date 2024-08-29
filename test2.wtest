@@ -1,0 +1,19 @@
+import tomyjerry.*
+
+describe "Poder y Querer comer"{
+    test "Tom Quiere y Puede Comer"{
+        assert.equals(false, tom.puedeComer(120))
+        assert.equals(false, tom.quiereComer(jerry, 120))
+    }
+
+    test "tom puede pero no quiere comerse a nibbles" {
+        assert.equals(true, tom.puedeComer(96))
+        assert.equals(false, tom.quiereComer(nibbles, 96))
+    }
+
+    test "tom puede y quiere comerse a nibbles" {
+        assert.equals(true, tom.puedeComer(60))
+        assert.equals(true, tom.quiereComer(nibbles, 60))
+    }
+
+}
