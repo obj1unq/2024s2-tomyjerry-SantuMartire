@@ -465,3 +465,7 @@
 {"failures":[],"level":"info","message":"🧪 Test runner executed on c:\\Users\\martu\\Desktop\\UNQ\\2024\\2do_Cuatrimestre\\POO_I\\Practicas\\Repositorios\\2024s2-tomyjerry-SantuMartire","result":{"failed":0,"ok":1},"timeElapsed":844,"timestamp":"2024-08-29T19:52:07.506Z"}
 {"failures":[],"level":"info","message":"🧪 Test runner executed on c:\\Users\\martu\\Desktop\\UNQ\\2024\\2do_Cuatrimestre\\POO_I\\Practicas\\Repositorios\\2024s2-tomyjerry-SantuMartire","result":{"failed":0,"ok":1},"timeElapsed":721,"timestamp":"2024-08-29T19:52:15.179Z"}
 {"failures":[],"level":"info","message":"🧪 Test runner executed on c:\\Users\\martu\\Desktop\\UNQ\\2024\\2do_Cuatrimestre\\POO_I\\Practicas\\Repositorios\\2024s2-tomyjerry-SantuMartire","result":{"failed":0,"ok":1},"timeElapsed":994,"timestamp":"2024-08-29T19:52:40.599Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":232,"timestamp":"2024-08-29T19:53:44.504Z"}
+{"level":"info","message":"⌛ Validating tomyjerry.wlk","timeElapsed":245,"timestamp":"2024-08-29T19:53:44.752Z"}
+{"level":"info","message":"⌛ Validating test1.wtest","timeElapsed":245,"timestamp":"2024-08-29T19:53:44.999Z"}
+{"level":"info","message":"⌛ Validating test2.wtest","timeElapsed":142,"timestamp":"2024-08-29T19:53:45.142Z"}
